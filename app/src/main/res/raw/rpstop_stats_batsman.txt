@@ -1,0 +1,1 @@
+[["AM Rahane", 480], ["MS Dhoni", 284], ["SPD Smith", 270], ["F du Plessis", 206], ["SS Tiwary", 170], ["NLTC Perera", 150], ["UT Khawaja", 127], ["GJ Bailey", 84], ["KP Pietersen", 73], ["R Ashwin", 41], ["R Bhatia", 34], ["JA Morkel", 16], ["IK Pathan", 11], ["MR Marsh", 7], ["PSP Handscomb", 6], ["Ankit Sharma", 3], ["A Zampa", 0], ["M Ashwin", 0]]

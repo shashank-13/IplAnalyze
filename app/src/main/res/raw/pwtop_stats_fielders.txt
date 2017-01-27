@@ -1,0 +1,1 @@
+[["RV Uthappa", 14], ["SPD Smith", 5], ["LJ Wright", 2], ["MK Pandey", 2], ["AD Mathews", 2], ["AG Murtaza", 1], ["NL McCullum (sub)", 1], ["WD Parnell", 1], ["AC Thomas", 1], ["SB Wagh", 1], ["AB Dinda", 1], ["Yuvraj Singh", 1], ["M Kartik", 1]]

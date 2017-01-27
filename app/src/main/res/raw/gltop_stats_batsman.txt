@@ -1,0 +1,1 @@
+[["SK Raina", 399], ["AJ Finch", 393], ["BB McCullum", 354], ["KD Karthik", 335], ["DR Smith", 324], ["RA Jadeja", 191], ["DJ Bravo", 99], ["JP Faulkner", 77], ["Ishan Kishan", 42], ["DS Kulkarni", 27], ["ER Dwivedi", 24], ["P Kumar", 24], ["AD Nath", 20], ["PV Tambe", 7], ["DW Steyn", 1], ["SB Jakati", 1], ["S Kaushik", 0]]

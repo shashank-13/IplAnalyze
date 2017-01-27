@@ -1,0 +1,1 @@
+[["A Zampa", 12], ["AB Dinda", 11], ["R Ashwin", 10], ["NLTC Perera", 9], ["M Ashwin", 7], ["R Bhatia", 6], ["MR Marsh", 4], ["I Sharma", 3], ["RP Singh", 3], ["JA Morkel", 2], ["SM Boland", 2], ["Ankit Sharma", 1]]
